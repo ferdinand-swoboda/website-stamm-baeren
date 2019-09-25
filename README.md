@@ -1,1 +1,9 @@
-# ferdinand-swoboda.github.io
+# Website des Stamm Bären
+
+### TODOs:
+
+- Seitenhierarchie
+- Text
+- Bilder
+- https
+- domain
