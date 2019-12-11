@@ -1,1 +1,0 @@
-# ferdinand-swoboda.github.io

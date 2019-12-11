@@ -1,0 +1,8 @@
+---
+layout: page
+title: Kalender
+feature_image:
+feature_text:
+---
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=OWMza2lnbG5lN3FxNmE3anNpMDIyMDV0bjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4uZ2VybWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23125A12&amp;color=%23D6AE00&amp;hl=de&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=1&amp;showTz=1&amp;title=Stamm%20B%C3%A4ren%20Aktivit%C3%A4ten" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
