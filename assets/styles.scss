@@ -1,0 +1,47 @@
+---
+title: false
+styles: true
+---
+
+// this file contains customizations of the theme's style
+
+// Background colours
+$accentColour: #ffcb04;
+
+// Text colours
+$headingColour: #097B0D;
+$linkColour: #349F38;
+
+// colour codes
+$white: #ffffff;
+$yellow: #ffcb04;
+$blue: #1d4899;
+$brown: #6b5c48;
+$red: #d30014;
+$green: #097B0D;
+
+// Typography
+$bodytype: (
+  font-family: "Roboto",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: "immenhausen",
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+@import url("https://cdn.pfadfinden.de/fonts/immenhausen/immenhausen.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+@import "alembic";
+
+// specify that site navigation uses the right font-family
+.header .nav {
+  font-family: unquote(map-get($headingtype, font-family));
+}
