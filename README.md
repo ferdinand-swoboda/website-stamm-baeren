@@ -1,11 +1,8 @@
 ## Website des Stamm Bären
 
 ### TODOs:
-- styles an official anpassen?!
-
 - Inhalt
   - home
-  - hide Kontaktformular and show email instead
   - Stamm
     - Stammesrat
     - Sippen
@@ -21,8 +18,8 @@
   - Abenteuer -> Jugendliche auf Fahrt
   - Kontakt -> Lagerfeuer
   - Such -> Jurtenburg
-- https
 - domain
+- https
 
 ### Help needed?
 Check out

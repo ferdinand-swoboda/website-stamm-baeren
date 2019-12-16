@@ -1,0 +1,44 @@
+// Background colours
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #ffcb04 !default;
+
+// Text colours
+$headingColour: #097B0D !default;
+$bodyColour: #384743 !default;
+$linkColour: #349F38 !default;
+$hoverColour: #008000 !default;
+$focusColour: #fa407a !default;
+$captionColour: #a8adac !default;
+$white: #ffffff !default;
+$yellow: #ffcb04 !default;
+$blue: #1d4899 !default;
+$brown: #6b5c48 !default;
+$red: #d30014 !default;
+$green: #097B0D !default;
+
+// Typography
+$bodytype: (
+  font-family: "Roboto",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: "immenhausen",
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: 'Menlo, monospace',
+  regular: 400,
+  cap-height: 0.68
+);
+
+@import url("https://cdn.pfadfinden.de/fonts/immenhausen/immenhausen.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
