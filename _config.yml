@@ -1,4 +1,5 @@
-theme: alembic-jekyll-theme
+#theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 
 # Site configuration
 # 1. Files excluded from Jekyll builds
@@ -31,6 +32,7 @@ plugins:
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
+- jekyll-remote-theme
 - jemoji
 
 # 3. Gem settings
