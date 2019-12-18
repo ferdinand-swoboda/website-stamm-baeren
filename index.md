@@ -12,6 +12,6 @@ mehr zum Aufbau, Aktionen und Gruppenstunden findest du hier und hier
 
 wosm/waggs, bdp etc.
 
-Unser Stammesheim (zurzeit geschlossen) findest du hier:
+Unser **Stammesheim** (zurzeit geschlossen) befindet sich in der **Zugspitzstraße 2a 82061 Neuried**, auf dem alten Gelände des TSV Neuried:
 
 {% include map.html %}
