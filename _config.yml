@@ -1,4 +1,4 @@
-remote_theme: daviddarnes/alembic
+theme: alembic-jekyll-theme
 
 # Site configuration
 # 1. Files excluded from Jekyll builds
@@ -31,7 +31,6 @@ plugins:
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
-- jekyll-remote-theme
 - jemoji
 
 # 3. Gem settings
@@ -76,7 +75,7 @@ logo: "/assets/logos/favicon.ico" # Site logo, also used in jekyll-seo-tag
 description: "Wir sind als örtliche Gruppe in Neuried (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden." # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.stamm-baeren.de" # Site url, also used in jekyll-seo-tag
 baseurl: "/website-stamm-baeren"
-# repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/ferdinand-swoboda/website-stamm-baeren"
 email: "stara-stamm-baeren@googlegroups.com"
 service_worker: false # Will turn off the service worker if set to false
 css_inline: false # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference

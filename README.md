@@ -9,8 +9,6 @@
     - Meuten
     - Rover
     - Geschichte
-  - Aktivitaeten Blog
-  - Kalender
 - emoji?
 - Bilder (favicon, feature images, feature text(lieder))
   - Stamm -> Gruppenfoto
@@ -18,8 +16,7 @@
   - Abenteuer -> Jugendliche auf Fahrt
   - Kontakt -> Lagerfeuer
   - Such -> Jurtenburg
-- domain
-- https
+- Host on stamm-baeren.de?
 
 ### Help needed?
 Check out
