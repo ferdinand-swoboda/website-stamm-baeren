@@ -2,4 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "alembic-jekyll-theme"
+gem "alembic-jekyll-theme", :github => 'ferdinand-swoboda/alembic'
+gem "github-pages"
