@@ -1,5 +1,5 @@
 ---
-title: Markdown for posts
+title: Eine neue Website für den Stamm
 feature_image:
 feature_text: A demo of Markdown
 excerpt: Ein paar Markdown Beispiele
