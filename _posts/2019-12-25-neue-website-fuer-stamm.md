@@ -22,7 +22,7 @@ tags:
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+[A link](baeren.refiness.org "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
@@ -42,27 +42,15 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 
 > A simple blockquote
 
-### Icon include
-
-{% include icon.html id="twitter" title="twitter" %}
-
-mit eingebettetem Link:
-
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes) asdfsadf
-
 ### Video include
 
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
+{% include video.html id="b4rTx6SnifQ" title="WSJ 2020" caption="Ein Video zum WSJ 2020" %}
 
 ### Image includes
 
-Ganz einfach:
+Mit Beschreibung und variabler Größe:
 
-![Bild einer Lilie](/assets/images/Lilie.png)
-
-Mit Beschreibung und Größenangabe:
-
-{% include figure.html image="/assets/images/Lilie.png" caption="Bild einer Lilie" width="300" height="800" %}
+{% include figure.html image="/website-stamm-baeren/assets/images/Lilie.png" caption="Bild einer Lilie" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
 
