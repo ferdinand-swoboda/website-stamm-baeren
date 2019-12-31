@@ -6,6 +6,8 @@ feature_text:
 aside: true
 ---
 
+#### Du möchtest auch Pfadfinder werden oder erstmal ein bisschen schnuppern?
+
 Du kannst uns über die folgenden Kanäle erreichen:
 
 - [Facebook](https://www.facebook.com/Stamm.Baeren) {% include icon.html id="facebook" title="Facebook" %}
@@ -13,6 +15,6 @@ Du kannst uns über die folgenden Kanäle erreichen:
 
 Wir freuen uns auf deine Nachricht!
 
-Gut Pfad,
+Unser **Stammesheim** (zurzeit geschlossen) befindet sich in der **Zugspitzstraße 2a 82061 Neuried**, auf dem alten Gelände des TSV Neuried:
 
-der Stammesrat
+{% include map.html %}

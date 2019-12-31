@@ -2,7 +2,7 @@
 title: Eine neue Website für den Stamm
 feature_image:
 feature_text: A demo of Markdown
-excerpt: Ein paar Markdown Beispiele
+excerpt: Zu Beginn des neuen Jahrzehnts bekommt der Stamm einen neuen Webauftritt denn Pfadfinder finden sich auch digital bestens zurecht.
 tags:
 ---
 

@@ -1,21 +1,16 @@
 ## Website des Stamm Bären
 
 ### TODOs:
-- Inhalt
-  - home
-  - Stamm
-    - Stammesrat
-    - Sippen
-    - Meuten
-    - Rover
-    - Geschichte
-- emoji?
-- Bilder (favicon, feature images, feature text(lieder))
-  - Stamm -> Gruppenfoto
+- Feature text von Liedern, Emoji?
+- Bilder (favicon, feature images)
+  - Stamm -> Stammesfoto
   - Home -> belebter Lagerplatz a la Bula oder Jamboree
   - Abenteuer -> Jugendliche auf Fahrt
   - Kontakt -> Lagerfeuer
-  - Such -> Jurtenburg
+  - Suche -> Jurtenburg
+- Inhalte zu Stara, Meute, Sippe, Runde (Gruppenfoto, Gruppenleiter, Kontakt, Gruppenstunde, Gruppengröße, Was machen wir da?)
+- Geschichte (siehe Handbuch)
+- Kalenderdaten
 - Host on stamm-baeren.de?
 
 ### Help needed?
@@ -23,4 +18,5 @@ Check out
 - Jekyll: https://jekyllrb.com/docs
 - Jekyll cheat sheet: https://devhints.io/jekyll
 - Theme: https://github.com/daviddarnes/alembic
+- Markdown cheat sheet: https://kramdown.gettalong.org/quickref.html
 - Markdown cheat sheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
