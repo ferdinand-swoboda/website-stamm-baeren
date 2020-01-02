@@ -22,7 +22,7 @@ $green: #097B0D;
 
 // Typography
 $bodytype: (
-  font-family: "Roboto",
+  font-family: "'Aleo', serif",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -37,7 +37,7 @@ $headingtype: (
 ) !default;
 
 @import url("https://cdn.pfadfinden.de/fonts/immenhausen/immenhausen.css");
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url('https://fonts.googleapis.com/css?family=Aleo:400,400i,700&display=swap');
 
 @import "alembic";
 
