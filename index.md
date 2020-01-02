@@ -21,7 +21,7 @@ Ziel der Pfadfinderbewegung ist es,
 
 Dennoch ist Pfadfinden ein Angebot für **jedes Alter**.  
 Um den unterschiedlichen Anforderungen gerecht zu werden, organisieren wir uns in den drei Altersstufen Wölflinge, Pfadfinderinnen und Pfadfinder, Ranger und Rover.
-Mehr dazu und zu unseren **Gruppenstunden** erfährst du [hier]({{ site.baseurl }}/stamm).
+Mehr dazu und zu unseren **Gruppenstunden** erfährst du [hier]({{ "/stamm" | relative_url }}).
 
 #### Abenteuer erleben
 
@@ -33,7 +33,7 @@ Wir geben Pfadfinderinnen und Pfadfindern Raum und Zeit, ihre eigenen Stärken z
 Auf Fahrten und Lagern das ganze Jahr über bauen Pfadfinderinnen und Pfadfinder ihr Wissen und Können aus, handeln selbstständig und eigenverantwortlich sowie lernen Land und Leute kennen.  
 **Weg von zuhause**, ohne die Annehmlichkeiten des Alltags, sind wir völlig auf uns gestellt, leben aus dem was in unsere Rücksäcke passt und erleben Freiheit und Abenteuer ganz neu.
 
-In den über 55 Jahren unseres Bestehens haben wir schon so manche Abenteuer nah und fern erlebt. Über einige kannst auf unserem [Blog]({{ site.baseurl }}/abenteuer) mehr lesen.
+In den über 45 Jahren unseres Bestehens haben wir schon so manche Abenteuer nah und fern erlebt. Über einige kannst auf unserem [Blog]({{ "/abenteuer" | relative_url }}) mehr lesen.
 
 #### Global denken, lokal handeln
 

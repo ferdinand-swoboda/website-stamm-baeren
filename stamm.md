@@ -27,4 +27,4 @@ In den {% include button.html text="Sippen" link="/stamm/sippen" %} kommen **Pfa
 
 Jeder Pfadfinder legt einmal im Leben im Rahmen eines Things sein {% include button.html text="Pfadfinderversprechen" link="/stamm/versprechen" %} ab und erhält sein Halstuch.
 
-Unseren Stamm gibt es seit über 55 Jahren. Unsere teils sehr bewegte {% include button.html text="Geschichte" link="/stamm/geschichte" %} begann im Jahr 1975 durch die Gründung von Schnecke (Alfred Scheffer).
+Unseren Stamm gibt es seit über 45 Jahren. Unsere teils sehr bewegte {% include button.html text="Geschichte" link="/stamm/geschichte" %} begann im Jahr 1975 durch die Gründung von Schnecke (Alfred Scheffer).
