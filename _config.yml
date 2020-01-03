@@ -46,10 +46,10 @@ social: # jekyll-seo-tag > social overrides
   name: Stamm Bären Neuried # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.facebook.com/Stamm.Baeren
-#markdown: GFM # Markdown parse settings
-#gfm:
-#  options: ["SMART", "FOOTNOTES"]
-#  extensions: ["strikethrough", "autolink", "table", "tasklist", "tagfilter"]
+markdown: kramdown # Markdown parse settings
+kramdown:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tasklist", "tagfilter"]
 
 # 4. Jekyll settings
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
