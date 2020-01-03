@@ -8,10 +8,11 @@
   - Abenteuer -> Jugendliche auf Fahrt
   - Kontakt -> Lagerfeuer
   - Suche -> Jurtenburg
+
 - Inhalte zu Stara, Meute, Sippe, Runde (Gruppenfoto, Gruppenleiter, Kontakt, Gruppenstunde, Gruppengröße, Was machen wir da?)
 - Geschichte (siehe Handbuch)
+
 - Kalenderdaten
-- Host on stamm-baeren.de? -> Deal with baseurl ?!
 - Update to Jekyll 4 and its link tag
 
 ### Help needed?
