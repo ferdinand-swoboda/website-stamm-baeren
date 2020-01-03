@@ -23,6 +23,6 @@ Unser {% include button.html text="Stammesrat" link="/stamm/stara" %} besteht au
 Gemeinsam führen sie den Stamm, organisieren Aktivitäten und treffen Entscheidungen zur Zukunft des Stammes. Darüberhinaus entsenden sie Vertreter in die Landesversammlung des BdP Bayern.  
 Unser Stara wird einmal jährlich demokratisch von allen Migliedern des Stammes unabhängig vom Alter gewählt. Jede Meinung, jede Stimme zählt.
 
-Jede*r Pfadfinder*in legt einmal im Leben im Rahmen eines Things sein {% include button.html text="Pfadfinderversprechen" link="/stamm/versprechen" %} ab und erhält sein*ihr Halstuch.
+Jede\*r Pfadfinder\*in legt einmal im Leben im Rahmen eines Things sein {% include button.html text="Pfadfinderversprechen" link="/stamm/versprechen" %} ab und erhält sein*ihr Halstuch.
 
 Unseren Stamm gibt es seit über 45 Jahren. Unsere teils sehr bewegte {% include button.html text="Geschichte" link="/stamm/geschichte" %} begann im Jahr 1975 durch die Gründung von Schnecke (Alfred Scheffer).

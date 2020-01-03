@@ -1,13 +1,12 @@
 ---
-title: Unsere Geschichte
-feature_text:
-  Gut Pfad
-feature_image: "https://picsum.photos/1300/400?image=989"
+title: Eine kurze Geschichte des Stamm Bären von 1975 bis 2005
+feature_image:
+feature_text: Womit alles begann...
+excerpt:
+tags:
 ---
 
 *Zum Einstieg sei dir eine kurze Geschichte zur [Entstehung des Pfadfindertums]({% post_url 2020-01-01-kurze-geschichte-entstehung-pfadfinder %}) aus unserem Blog empfohlen.*
-
-{% include figure.html image="/website-stamm-baeren/assets/images/schnecke.jpg" caption="Stammesgründer Schnecke" width="50%" %}
 
 Am 17. September 1975 wurde der Stamm Bären von Schnecke (Alfred Scheffer) gegründet. Er wollte seinen Kindern die Art von Pfadfinderei zuteil werden lassen, die er in seiner Jugendzeit erlebt hatte.
 
@@ -32,4 +31,4 @@ Seit 2002 nennt sich der Bezirk wieder Horst.
 | 1996 - 1997 | Roli (Roland Kraus)
 | 1997 - 2000 | Wiesi (Sebastian Wiesemann)
 | 2000 - 2001 | Philipp (Philipp Bastian)
-| seit 2001   | Farbi (Fabian Sommer)
+| 2001 - 2006 | Farbi (Fabian Sommer)
