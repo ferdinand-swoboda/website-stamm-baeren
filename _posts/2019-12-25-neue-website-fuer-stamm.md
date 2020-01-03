@@ -1,14 +1,17 @@
 ---
 title: Eine neue Website für den Stamm
 feature_image:
-feature_text: A demo of Markdown
+feature_text: Eine Demo der Darstellungselemente für Artikel
 excerpt: Zu Beginn des neuen Jahrzehnts bekommt der Stamm einen neuen Webauftritt denn Pfadfinder finden sich auch digital bestens zurecht.
 tags:
 ---
 
-[Cheatsheet for writing in Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+Im Nachfolgenden werde ich die zentralen Elemente zur Gestaltung eines Blogartikels vorstellen.  
+Die Gestaltung ist zur Wahrung eines einheitlichen Gesamtbildes und zur einfacheren Auslieferung an Browser eingeschränkt. Es sollte jedoch reichen, um eure Gedanken mit der Welt zu teilen.
 
-# Some examples
+Los geht's!
+
+# Ein paar Beispiele für Überschriften
 
 ## Heading 2
 
@@ -20,40 +23,70 @@ tags:
 
 ###### Heading 6
 
-<small>A small element</small>
+<small>Ein besonders kleines Element</small>
 
-[A link](baeren.refiness.org "A link")
+[Ein Link auf eine externe Seite mit Titel](https://www.neuried.de "Neuried Homepage")  
+[Ein Link zu einer internen Seite ohne Titel](/website-stamm-baeren/stamm)
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+Duis aute irure dolor in [ein link](https://david.darn.es) reprehenderit in ~~durchstreichen~~ esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `Block text, für Code z.B.` est laborum.
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+Manche Kontrollzeichen wie \* müssen nach einem Bachslash \\ stehen um dargestellt zu werden.
+
+Für einen normalen Zeilen-  
+umbruch sind mindestens zwei Leerzeichen und ein Absatz notwendig.
+
+>Texte können auch eingeschoben
+>bzw. besonders hervorgehoben werden.
+
+Horizontale Trenner gibts auch:
+
+***
+
+### Listen
 
 * An item
 * An item
-* An item
-* An item
+  - An item
+  - An item
+    1. Und so weiter ...
+    2. ... und weiter
 * An item
 
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
+Tasklisten gehen auch:
 
-> A simple blockquote
+- [x] 5x Bananen
+- [ ] 2x Äpfel
+  - [ ] 1x Boskop
+  - [x] 1x Pink Lady
+- [x] 1x Mango
 
-### Video include
+### Tabellen
+
+Das \|-Symbol trennt Spalten, \--Symbole (Dashes) die Zeilen.
+
+| Tabellen        | sind          | cool  |
+| --------------- |:-------------:| -----:|
+| Spalte 3 ist    | rechts-orientiert | $1600 |
+| Spalte 2 ist     | zentriert      |   $12 |
+| **Text formatieren** | *geht auch*   |    $1 |
+
+### Videos
+
+Videos sind zu groß um direkt hochgeladen werden zu können und können daher nur verlinkt werden, vorzugsweise auf Youtube.
 
 {% include video.html id="b4rTx6SnifQ" title="WSJ 2020" caption="Ein Video zum WSJ 2020" %}
 
-### Image includes
+### Bilder
 
-Mit Beschreibung und variabler Größe:
+Bilder können mit einer Beschreibung, einer Größenangabe und einer Positionierung (links, rechts, zentral) versehen werden:
 
-{% include figure.html image="/website-stamm-baeren/assets/images/Lilie.png" caption="Bild einer Lilie" width="300" height="800" %}
+{% include figure.html image="/website-stamm-baeren/assets/images/Lilie.png" caption="relativ referenziertes Bild einer Lilie mit fixer Größe" width="300" height="500" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="/website-stamm-baeren/assets/images/Kuscheltier-liegend.png" caption="Rechts ausgerichtetes Bild mit relativer Größe" position="right" width="50%" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" caption="Center aligned image" width="300" height="800" %}
+{% include figure.html image="https://picsum.photos/1600/800?image=894" caption="extern referenziertes Bild" position="center"%}
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+### Noch Fragen?
+
+Falls du noch Fragen hast oder weiter experimentieren möchtest, findest du hier eine [kurze](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) oder auch eine [ausführliche](https://kramdown.gettalong.org/quickref.html) Dokumentation.  
+Ansonsten, wende dich einfach an Pholen.

@@ -33,4 +33,4 @@ Check out
 - Jekyll cheat sheet: https://devhints.io/jekyll
 - Theme: https://github.com/daviddarnes/alembic
 - Markdown cheat sheet: https://kramdown.gettalong.org/quickref.html
-- Markdown cheat sheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+- Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
