@@ -15,13 +15,12 @@ Der Stamm besteht aus mehreren Stufen mit jeweils eigenem Programm, eigenen Ziel
 
 In den {% include button.html text="Sippen" link="/stamm/sippen" %} kommen **Pfadfinder\*innen (12 bis 16 Jahre)** zusammen.
 
-**Ranger und Rover (17 bis 25 Jahre)** formen mit den **Altpfadfindern (>26 Jahre)** die {% include button.html text="Runden" link="/stamm/runden" %} der Ältesten innerhalb des Stammes.
+**Ranger und Rover (17 bis 25 Jahre)** formen mit den **Altpfadfinder\*innen (>26 Jahre)** die {% include button.html text="Runden" link="/stamm/runden" %} der Ältesten innerhalb des Stammes.
 
 ***
 
-Unser {% include button.html text="Stammesrat" link="/stamm/stara" %} besteht aus einem*r Stammesführer\*in, Stellvertreter\*innen, den einzelnen Gruppenführer\*innen und anderen Verantwortlichen wie z.B. dem Materialwart.  
-Gemeinsam führen sie den Stamm, organisieren Aktivitäten und treffen Entscheidungen zur Zukunft des Stammes. Darüberhinaus entsenden sie Vertreter in die Landesversammlung des BdP Bayern.  
-Unser Stara wird einmal jährlich demokratisch von allen Migliedern des Stammes unabhängig vom Alter gewählt. Jede Meinung, jede Stimme zählt.
+Die Mitglieder des {% include button.html text="Stammesrats" link="/stamm/stara" %} führen gemeinsam den Stamm, organisieren Aktivitäten und treffen Entscheidungen zur Zukunft des Stammes.
+Unser Stammesrat wird einmal jährlich demokratisch von allen Migliedern des Stammes unabhängig vom Alter gewählt. Jede Meinung, jede Stimme zählt.
 
 Jede\*r Pfadfinder\*in legt einmal im Leben im Rahmen eines Things sein {% include button.html text="Pfadfinderversprechen" link="/stamm/versprechen" %} ab und erhält sein*ihr Halstuch.
 

@@ -18,6 +18,7 @@
   - Affe
   - Zelte
 - Inhalte zu Stara, Meute, Sippe, Runde
+  - TODO: Gruppenfoto, Gruppenleiter, Kontakt, Gruppenstunde, Gruppengröße, Was machen wir da?, in 1. oder 3. Person?
 
 #### Should
 - Finish blog articles
@@ -30,6 +31,6 @@
 Check out
 - Jekyll: https://jekyllrb.com/docs
 - Jekyll cheat sheet: https://devhints.io/jekyll
-- Theme: https://github.com/daviddarnes/alembic
+- Theme: https://github.com/ferdinand-swoboda/alembic
 - Markdown cheat sheet: https://kramdown.gettalong.org/quickref.html
 - Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
