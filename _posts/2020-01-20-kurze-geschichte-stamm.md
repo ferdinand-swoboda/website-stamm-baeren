@@ -2,7 +2,7 @@
 title: Eine kurze Geschichte des Stamm Bären von 1975 bis 2005
 feature_image:
 feature_text: Womit alles begann...
-excerpt:
+excerpt: Am 17. September 1975 wurde der Stamm Bären von Schnecke (Alfred Scheffer) gegründet. Er wollte seinen Kindern die Art von Pfadfinderei zuteil werden lassen, die er in seiner Jugendzeit erlebt hatte.
 tags:
 ---
 

@@ -3,7 +3,6 @@
 ### TODOs:
 
 #### Must
-- Favicon!
 - Feature text von Liedern, Emoji?
 - Gendern?
 - Bilder (feature images)

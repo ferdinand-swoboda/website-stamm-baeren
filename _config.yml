@@ -73,20 +73,22 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: de-GE # Set the site language
 title: "Stamm Bären Neuried" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/favicon.ico" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo@192px.png" # Site logo, also used in jekyll-seo-tag
 description: "Wir sind als örtliche Gruppe in Neuried (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden." # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.stamm-baeren.de" # Site url, also used in jekyll-seo-tag
 baseurl: "/website-stamm-baeren"
 repo: "https://github.com/ferdinand-swoboda/website-stamm-baeren"
 email: "stara@stamm-baeren.de"
-service_worker: true # Will turn off the service worker if set to false
+service_worker: false # Will turn off the service worker if set to false
 css_inline: false # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/favicon-16x16.png'
-  32: '/assets/logos/favicon-32x32.png'
-  96: '/assets/logos/favicon-96x96.png'
+  16: '/website-stamm-baeren/assets/logos/logo@16px.png'
+  32: '/website-stamm-baeren/assets/logos/logo@32px.png'
+  48: '/website-stamm-baeren/assets/logos/logo@48px.ico'
+  150: '/website-stamm-baeren/assets/logos/logo@150px.png'
+  192: '/website-stamm-baeren/assets/logos/logo@192px.png'
 
 # 9. Site navigation
 navigation_header:
