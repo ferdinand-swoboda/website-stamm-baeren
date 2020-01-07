@@ -2,7 +2,7 @@
 title: Das Pfadfinderversprechen
 feature_text:
   ":hand: Ich will nach den Regeln der Pfadfinderinnen und Pfadfinder mit euch leben. :hand:"
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/website-stamm-baeren/assets/images/feuer.jpeg"
 ---
 
 Das Pfadfinderversprechen ist ein Teil der Pfadfinderischen Methode und bekundet unsere Zugehörigkeit zum Pfadfindertum.  

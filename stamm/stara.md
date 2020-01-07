@@ -1,7 +1,7 @@
 ---
 title: Der Stammesrat
-feature_text:
-feature_image: "/website-stamm-baeren/assets/images/stammeswappen.png"
+feature_text: ":notes: Heute hier, morgen dort... :notes:"
+feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 ### Was macht der Stammesrat?
@@ -25,7 +25,7 @@ Der Stammesrat setzt sich zurzeit aus folgenden Mitgliedern zusammen:
 | Meutenführer Braunbären | René |
 | Meutenführer Braunbären + Materialwart | Daniel |
 | Sippenführer Ameisenbären | Bene (Benedikt Swoboda) |
-| Sippenführer Ameisenbären | Pholen (Ferdinand Swoboda) |
+| Webmaster | Pholen (Ferdinand Swoboda) |
 | Kassenwartin | Lena |
 | Kassenprüferin | Christine |
 | RR-Beauftragte | Nina |

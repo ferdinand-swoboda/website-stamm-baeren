@@ -2,7 +2,7 @@
 title: Willkommen beim Stamm Bären!
 feature_text:
   Gut Pfad
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/website-stamm-baeren/assets/images/2005-zelte-bula.jpg"
 ---
 {% include nav-social.html %}
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kalender
-feature_image:
+feature_image: "/website-stamm-baeren/assets/images/Schlauchboot.jpg"
 feature_text:
 ---
 

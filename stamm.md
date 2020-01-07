@@ -1,8 +1,7 @@
 ---
 title: Die Bären
 feature_text:
-  Gut Pfad
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/website-stamm-baeren/assets/images/group.jpeg"
 ---
 
 Wir haben in Neuried zurzeit etwa 35 Mitglieder, 25 davon aktiv.  

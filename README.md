@@ -14,7 +14,6 @@
   - Home -> belebter Lagerplatz a la Bula oder Jamboree
   - Abenteuer -> Jugendliche auf Fahrt
   - Kontakt -> Lagerfeuer
-  - Suche -> Jurtenburg
   - Affe
   - Zelte
 - Inhalte zu Stara, Meute, Sippe, Runde
