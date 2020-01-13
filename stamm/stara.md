@@ -20,12 +20,11 @@ Der Stammesrat setzt sich zurzeit aus folgenden Mitgliedern zusammen:
 
 | Stara-Mitglieder |
 |--------+-------|
-| Stammesführer | Matze (Matthias Maerkl) |
-| Stellv. Stammesführer | Ali (Alexander Krams) |
-| Meutenführer Braunbären | René |
-| Materialwart | Daniel |
-| Sippenführer Ameisenbären | Bene (Benedikt Swoboda) |
-| Webmaster | Pholen (Ferdinand Swoboda) |
-| Kassenwartin | Lena |
-| Kassenprüferin | Christine |
-| RR-Beauftragte | Nina |
+| Stammesführer | Matthias "Matze" Maerkl |
+| Stellv. Stammesführer | Alexander "Ali" Krams |
+| Meutenführer Braunbären | René Pieper |
+| Materialwart | Daniel "Dani" Opatril |
+| Sippenführer Ameisenbären | Benedikt "Bene" Swoboda |
+| Webmaster | Ferdinand "Pholen" Swoboda |
+| Kassenwartin/Mitgliederverwalter | Lena Erdmann |
+| Kassenprüferin | Christine Erdmann |

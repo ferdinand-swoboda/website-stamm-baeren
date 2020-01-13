@@ -19,5 +19,5 @@ Zurzeit gibt es eine Runde ohne Namen (daran müssten wir mal etwas ändern :).
 Da die Runde alles gemeinschaftlich entscheidet bzw. von der Initiative einzelner lebt, brauchen wir keine Leiter.
 
 ### Interessiert?
-Sag uns einfach über einen unserer [Kanäle](/website-stamm-baeren/kontakt) Bescheid.
+Lass uns einfach über einen unserer [Kanäle](/website-stamm-baeren/kontakt) deine Nachricht zukommen.
 Wir freuen uns auf dich!
