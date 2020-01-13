@@ -62,7 +62,7 @@ collections:
     title: Abenteuer # Needed for Siteleaf
     output: true
     description: "Eine Auswahl vergangener Abenteuer" # The post list page content
-    feature_text: ":notes: Heute hier, morgen dort... :notes:"
+    feature_text: 
     feature_image: "/website-stamm-baeren/assets/images/pfadi-walk-2.jpeg"
     sort_by: date
 

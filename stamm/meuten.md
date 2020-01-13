@@ -16,8 +16,8 @@ An seinem **gelben Halstuch** und am **Wolfskopf** auf seinem Hemd.
 
 ### Wer sind unsere Gruppen und ihre Leiter?
 
-Zurzeit haben wir eine Meute, die **Braunbären**, mit 9 Wölflingen.
-Die Meutenführer der Braunbären sind Daniel und René.
+Zurzeit haben wir eine Meute, die **Braunbären**, mit etwa 9 Wölflingen.
+Der Meutenführer der Braunbären ist René.
 
 Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 17:30 bis 19:00 Uhr statt. Treffpunkt ist unser [Stammesheim](/website-stamm-baeren/kontakt).
 

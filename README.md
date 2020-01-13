@@ -3,9 +3,7 @@
 ### TODOs:
 
 #### Must
-- Feature text von Liedern, Emoji?
-- Gendern?
-- Bilder (feature images)
+- Bessere Bilder für die Hauptseiten i.e. feature images
   - gelbes und gelb-blaues Halstuch
   - Bärenkluft
   - Helgo
@@ -16,11 +14,15 @@
   - Kontakt -> Lagerfeuer
   - Affe
   - Zelte
+  - Zelt + Lagerfeuer + Gitarre + Singekreis + Panorama
+  - auf Fahrt
+  - in Aktion e.g. Kochen/Holz hacken/Zelt hochziehen/etwa bauen
+  - belebter Lagerplatz
 - Inhalte zu Stara, Meute, Sippe, Runde
   - TODO: Gruppenfoto, Gruppenleiter, Kontakt, Gruppenstunde, Gruppengröße, Was machen wir da?, in 1. oder 3. Person?
 
 #### Should
-- Finish blog articles
+- Finish blog drafts
 - Improve geschichte.md
 
 #### Could

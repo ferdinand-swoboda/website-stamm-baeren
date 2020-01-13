@@ -23,7 +23,7 @@ Der Stammesrat setzt sich zurzeit aus folgenden Mitgliedern zusammen:
 | Stammesführer | Matze (Matthias Maerkl) |
 | Stellv. Stammesführer | Ali (Alexander Krams) |
 | Meutenführer Braunbären | René |
-| Meutenführer Braunbären + Materialwart | Daniel |
+| Materialwart | Daniel |
 | Sippenführer Ameisenbären | Bene (Benedikt Swoboda) |
 | Webmaster | Pholen (Ferdinand Swoboda) |
 | Kassenwartin | Lena |
