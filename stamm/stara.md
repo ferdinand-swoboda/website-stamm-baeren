@@ -21,8 +21,8 @@ Der Stammesrat setzt sich zurzeit aus folgenden Mitgliedern zusammen:
 | Stara-Mitglieder |
 |--------+-------|
 | Stammesführer | Matthias "Matze" Maerkl |
-| Stellv. Stammesführer | Alexander "Ali" Krams |
-| Meutenführer Braunbären | René Pieper |
+| Stellv. Stammesführer | Alexander "Ali" Krams und Daniel "Dani" Opatril |
+| Meutenführer Braunbären | René Pieper und Manuel "Manu" Krainz |
 | Materialwart | Daniel "Dani" Opatril |
 | Sippenführer Ameisenbären | Benedikt "Bene" Swoboda |
 | Webmaster | Ferdinand "Pholen" Swoboda |
