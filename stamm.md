@@ -1,7 +1,7 @@
 ---
 title: Die Bären
 feature_text:
-feature_image: "/website-stamm-baeren/assets/images/group.jpeg"
+feature_image: "/website-stamm-baeren/assets/images/2005-gelaendespiel-leute.jpeg"
 ---
 
 Wir haben in Neuried zurzeit etwa 35 Mitglieder, 25 davon aktiv.  
