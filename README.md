@@ -19,7 +19,7 @@
   - in Aktion e.g. Kochen/Holz hacken/Zelt hochziehen/etwa bauen
   - belebter Lagerplatz
 - Inhalte zu Stara, Meute, Sippe, Runde
-  - TODO: Gruppenfoto, Gruppenleiter, Kontakt, Gruppenstunde, Gruppengröße, Was machen wir da?, in 1. oder 3. Person?
+  - TODO: Gruppenfoto, Gruppenleiter, Kontakt, Gruppenstunde, Gruppengröße, Was machen wir da?
 
 #### Should
 - Finish blog drafts
