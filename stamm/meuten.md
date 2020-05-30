@@ -1,7 +1,7 @@
 ---
 title: Unsere Meute
 feature_text:
-feature_image: "/website-stamm-baeren/assets/logos/bdp-wolfskopf.svg"
+feature_image: "assets/logos/bdp-wolfskopf.svg"
 ---
 
 ### Was machen wir in der Meute?
@@ -19,9 +19,9 @@ An seinem **gelben Halstuch** und am **Wolfskopf** auf seinem Hemd.
 Zurzeit haben wir eine Meute, die **Braunbären**, mit etwa 9 Wölflingen.
 Die Meutenführer der Braunbären sind René Pieper und Manuel "Manu" Krainz.
 
-Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 17:30 bis 19:00 Uhr statt. Treffpunkt ist unser [Stammesheim](/website-stamm-baeren/kontakt).
+Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 17:30 bis 19:00 Uhr statt. Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
 
 ### Interessiert?
 
-Sag uns einfach über einen unserer [Kanäle](/website-stamm-baeren/kontakt) Bescheid.
+Sag uns einfach über einen unserer [Kanäle]({% link kontakt.md %}) Bescheid.
 Wir freuen uns auf dich!

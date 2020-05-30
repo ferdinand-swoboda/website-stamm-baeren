@@ -26,11 +26,11 @@ Los geht's!
 <small>Ein besonders kleines Element</small>
 
 [Ein Link auf eine externe Seite mit Titel](https://www.neuried.de "Neuried Homepage")  
-[Ein Link zu einer internen Seite ohne Titel](/website-stamm-baeren/stamm)
+[Ein Link zu einer internen Seite ohne Titel]({% link stamm.md %})
 
-Duis aute irure dolor in [ein link](https://david.darn.es) reprehenderit in ~~durchstreichen~~ esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `Block text, für Code z.B.` est laborum.
+Duis aute irure dolor in [ein link](www.stamm-baeren.de) reprehenderit in ~~durchstreichen~~ esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `Block text, für Code z.B.` est laborum.
 
-Manche Kontrollzeichen wie \* müssen nach einem Bachslash \\ stehen um dargestellt zu werden.
+Manche Kontrollzeichen wie \* müssen nach einem Backslash \\ stehen um dargestellt zu werden.
 
 Für einen normalen Zeilen-  
 umbruch sind mindestens zwei Leerzeichen und ein Absatz notwendig.
@@ -80,13 +80,13 @@ Videos sind zu groß um direkt hochgeladen werden zu können und können daher n
 
 Bilder können mit einer Beschreibung, einer Größenangabe und einer Positionierung (links, rechts, zentral) versehen werden:
 
-{% include figure.html image="/website-stamm-baeren/assets/images/Lilie.png" caption="relativ referenziertes Bild einer Lilie mit fixer Größe" width="300" height="500" %}
+{% include figure.html image="assets/images/Lilie.png" caption="relativ referenziertes Bild einer Lilie mit fixer Größe" width="300" height="500" %}
 
-{% include figure.html image="/website-stamm-baeren/assets/images/Kuscheltier-liegend.png" caption="Rechts ausgerichtetes Bild mit relativer Größe" position="right" width="50%" %}
+{% include figure.html image="assets/images/Kuscheltier-liegend.png" caption="Rechts ausgerichtetes Bild mit relativer Größe" position="right" width="50%" %}
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" caption="extern referenziertes Bild" position="center"%}
 
 ### Noch Fragen?
 
 Falls du noch Fragen hast oder weiter experimentieren möchtest, findest du hier eine [kurze](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) oder auch eine [ausführliche](https://kramdown.gettalong.org/quickref.html) Dokumentation.  
-Ansonsten, wende dich einfach an Pholen.
+Ansonsten wende dich einfach an Pholen.

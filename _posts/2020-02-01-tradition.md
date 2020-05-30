@@ -26,7 +26,7 @@ Da wir nicht religiös sondern interkonfessionell bzw. konfessionslos sind könn
 
 Der Daumen über dem kleinen Finger steht für den Schutz des Schwachen durch den Starken.
 
-{% include figure.html image="/website-stamm-baeren/assets/images/2000-ostern-philipp.jpeg" caption="Traditionelle Pfadi Ausstattung" width="50%" position="center" %}
+{% include figure.html image="assets/images/2000-ostern-philipp.jpeg" caption="Traditionelle Pfadi Ausstattung" width="50%" position="center" %}
 
 Altmodische Ausrüstung ist ein Zeichen für Verzicht.  
 Auf Fahrt und im Lager verzichten wir bewusst auf Funktionskleidung, Taschenlampen, moderne Zelte, Handys und McDonalds. Dabei sind doch diese modernen Errungenschaften so praktisch und bequem. Man kann moderne Zelte alleine in wenigen Minuten aufstellen, mit einer Taschenlampe findet man sich nachts im Lager besser zurecht und ein Rucksack ist schneller zugepackt und auch bequemer zu tragen.

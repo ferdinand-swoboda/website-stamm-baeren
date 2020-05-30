@@ -1,12 +1,12 @@
 ---
 title: Die Bären
 feature_text:
-feature_image: "/website-stamm-baeren/assets/images/2005-gelaendespiel-leute.jpeg"
+feature_image: "assets/images/2005-gelaendespiel-leute.jpeg"
 ---
 
 Wir haben in Neuried zurzeit etwa 35 Mitglieder, 25 davon aktiv.  
 Abhängig vom Alter treffen wir uns in unterschiedlichen Gruppen einmal wöchentlich. Hin und wieder unternehmen wir Fahrten und Lager in der Region, in Deutschland und im Ausland oder auch Singerunden und Thementage mit anderen Pfadis.  
-Zu diesen gehören im Besonderen die befreundeten Stämme [Cosuaneten](cosuaneten.de/), [Bussard](stammbussard-germering.de/) und Jakob Fugger, mit den wir den **Horst Südland** geformt haben.
+Zu diesen gehören im Besonderen die befreundeten Stämme [Cosuaneten](www.cosuaneten.de/), [Bussard](www.stammbussard-germering.de/) und Jakob Fugger, mit den wir den **Horst Südland** geformt haben.
 
 Der Stamm besteht aus mehreren Stufen mit jeweils eigenem Programm, eigenen Zielen und eigenen wöchentlichen Gruppenstunden:
 

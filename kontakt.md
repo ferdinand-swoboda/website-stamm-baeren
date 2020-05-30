@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-feature_image: "/website-stamm-baeren/assets/images/sunset-falado.jpeg"
+feature_image: "assets/images/sunset-falado.jpeg"
 feature_text:
 aside: true
 ---

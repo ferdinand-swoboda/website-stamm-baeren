@@ -2,12 +2,12 @@
 title: Unsere Geschichte
 feature_text:
   Gut Pfad
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: 
 ---
 
 *Zum Einstieg sei dir eine kurze Geschichte zur [Entstehung des Pfadfindertums]({% post_url 2020-01-01-kurze-geschichte-entstehung-pfadfinder %}) aus unserem Blog empfohlen.*
 
-{% include figure.html image="/website-stamm-baeren/assets/images/schnecke.jpg" caption="Stammesgründer Schnecke" width="50%" %}
+{% include figure.html image="assets/images/schnecke.jpg" caption="Stammesgründer Schnecke" width="50%" %}
 
 Am 17. September 1975 wurde der Stamm Bären von Schnecke (Alfred Scheffer) gegründet. Er wollte seinen Kindern die Art von Pfadfinderei zuteil werden lassen, die er in seiner Jugendzeit erlebt hatte.
 

@@ -1,6 +1,6 @@
 ---
 title: Abschiedsbrief Sir Robert Baden-Powell
-feature_image: /website-stamm-baeren/assets/images/Lilie.png
+feature_image: assets/images/Lilie.png
 feature_text: Allzeit bereit!
 excerpt: Zum 79. Todestag des Gründers der Pfadfinderbewegung kannst du hier seinen Abschiedsbrief, in dem er sich kurz vor seinem Tod an die Pfadfindergemeinschaft wendet, lesen.
 tags:

@@ -2,11 +2,11 @@
 title: Willkommen beim Stamm Bären!
 feature_text:
   Gut Pfad
-feature_image: "/website-stamm-baeren/assets/images/2005-zelte-bula.jpg"
+feature_image: "assets/images/2005-zelte-bula.jpg"
 ---
 {% include nav-social.html %}
 
-Wir sind als örtliche Gruppe in Neuried (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden vertreten durch [WOSM](scout.org)/[WAGGGS](wagggs.org).
+Wir sind als örtliche Gruppe in Neuried (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden vertreten durch [WOSM](https://www.scout.org)/[WAGGGS](https://www.wagggs.org).
 
 #### Jugend führt Jugend
 
@@ -21,7 +21,7 @@ Ziel der Pfadfinderbewegung ist es,
 
 Dennoch ist Pfadfinden ein Angebot für **jedes Alter**.  
 Um den unterschiedlichen Anforderungen gerecht zu werden, organisieren wir uns in den drei Altersstufen Wölflinge, Pfadfinderinnen und Pfadfinder, Ranger und Rover.
-Mehr dazu und zu unseren **Gruppenstunden** erfährst du [hier]({{ "/stamm" | relative_url }}).
+Mehr dazu und zu unseren **Gruppenstunden** erfährst du [hier]({% link stamm.md %}).
 
 #### Abenteuer erleben
 
@@ -33,7 +33,7 @@ Wir geben Pfadfinderinnen und Pfadfindern Raum und Zeit, ihre eigenen Stärken z
 Auf Fahrten und Lagern das ganze Jahr über bauen Pfadfinderinnen und Pfadfinder ihr Wissen und Können aus, handeln selbstständig und eigenverantwortlich sowie lernen Land und Leute kennen.  
 **Weg von zuhause**, ohne die Annehmlichkeiten des Alltags, sind wir völlig auf uns gestellt, leben aus dem was in unsere Rücksäcke passt und erleben Freiheit und Abenteuer ganz neu.
 
-In den über 45 Jahren unseres Bestehens haben wir schon so manche Abenteuer nah und fern erlebt. Über einige kannst auf unserem [Blog]({{ "/abenteuer" | relative_url }}) mehr lesen.
+In den über 45 Jahren unseres Bestehens haben wir schon so manche Abenteuer nah und fern erlebt. Über einige kannst auf unserem [Blog]({% link abenteuer/index.html %}) mehr lesen.
 
 #### Global denken, lokal handeln
 
@@ -47,4 +47,4 @@ Dann zählt nicht, ob jemand weiß ist oder schwarz, gläubig oder nicht, arm od
 
 Pfadfinder*innen erkennen sich überall auf der Welt auf den ersten Blick: durch das **Halstuch und die Tracht** oder Kluft.
 
-{% include figure.html image="/website-stamm-baeren/assets/images/Kluft.png" caption="Ein Erkennungszeichen, das Verbindungen schafft" width="80%" %}
+{% include figure.html image="assets/images/Kluft.png" caption="Ein Erkennungszeichen, das Verbindungen schafft" width="80%" %}

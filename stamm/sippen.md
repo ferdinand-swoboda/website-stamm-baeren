@@ -1,7 +1,7 @@
 ---
 title: Unsere Sippe
 feature_text:
-feature_image: "/website-stamm-baeren/assets/logos/bdp-bundeszeichen.svg"
+feature_image: "assets/logos/bdp-bundeszeichen.svg"
 ---
 
 ### Was machen wir in der Sippe?
@@ -18,9 +18,9 @@ An ihrem blau-gelben Halstuch und dem Zeichen aus Kleeblatt und Lilie auf ihrem 
 Zurzeit haben wir eine Sippe, die **Ameisenbären**, mit 4 Pfadfinderinnen.
 Der Sippenführer der Ameisenbären ist Benedikt "Bene" Swoboda.
 
-Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 18:00 bis 19:30 Uhr statt. Treffpunkt ist unser [Stammesheim](/website-stamm-baeren/kontakt).
+Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 18:00 bis 19:30 Uhr statt. Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
 
 ### Interessiert?
 
-Sag uns einfach über einen unserer [Kanäle](/website-stamm-baeren/kontakt) Bescheid.
+Sag uns einfach über einen unserer [Kanäle]({% link kontakt.md %}) Bescheid.
 Wir freuen uns auf dich!

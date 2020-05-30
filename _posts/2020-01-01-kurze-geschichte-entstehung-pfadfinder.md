@@ -1,12 +1,12 @@
 ---
 title: Eine kurze Geschichte der Entstehung des Pfadfindertums
-feature_image: "/website-stamm-baeren/assets/images/brownsea-island-camp.jpg"
-feature_text: 
+feature_image: "assets/images/brownsea-island-camp.jpg"
+feature_text:
 excerpt: Als eine Gruppe von zwanzig Jungen am 25. Juli 1907 vom Hafen der englischen Stadt Poole auf die Insel Brownsea ruderte, um dort ein Lager zu verbringen, sollte dieses Lager der Anfang einer globalen Jugendbewegung markieren.
 tags:
 ---
 
-{% include figure.html image="/website-stamm-baeren/assets/images/bibi-portrait.jpg" caption="Sir Robert Baden-Powell" width="40%" %}
+{% include figure.html image="assets/images/bibi-portrait.jpg" caption="Sir Robert Baden-Powell" width="40%" %}
 
 *Folgender Artikel wurde von Wiesi 2005 für das Handbuch zur Halstuchausbildung angehender Gruppenleiter\*innen verfasst:*
 
@@ -19,9 +19,9 @@ Die Jungen wollten das, was sie in einem Handbuch der britischen Armee gelesen h
 Er war am 22. Februar 1875 in London geboren worden. Sein Vater - Professor für Geometrie und Pfarrer - starb als er drei Jahre alt war und so sorgte seine Mutter von da an allein für die zehn Kinder.  
 Gemeinsam mit seinen Brüdern erlebt er unzählige Abenteuer. Sie wanderten durch England, fuhren die englischen Kanäle entlang und segelten sogar auf der Nordsee bis nach Norwegen. Auf ihren Reisen lebten sie von dem, was ihnen die Natur bot.  
 Sie schliefen draußen, orientierten sich nach der Sonne und den Sternen und fingen Fische.  
-Während seiner Zeit im Internat interessierte er sich mehr für den Wald hiner der Schule als für die Schule an sich. Dort lernte er die Natur kennen und lieben.
+Während seiner Zeit im Internat interessierte er sich mehr für den Wald hinter der Schule als für die Schule an sich. Dort lernte er die Natur kennen und lieben.
 
-Deshalb war er wohl auch kein besonders guter Schüler und bewarb sich nach seinem eher mäßigen Abschluss an einer Offiziersschule. Überraschenderweise schnitter er bei der Aufnahmeprüfung als Zweitbester ab. Daraufhin konnte er sich die zweijährige Grundausbildung sparen und wurde direkt als Unterleutnant in einer Aufklärungseinheit nach Indien versetzt.
+Deshalb war er wohl auch kein besonders guter Schüler und bewarb sich nach seinem eher mäßigen Abschluss an einer Offiziersschule. Überraschenderweise schnitt er bei der Aufnahmeprüfung als Zweitbester ab. Daraufhin konnte er sich die zweijährige Grundausbildung sparen und wurde direkt als Unterleutnant in einer Aufklärungseinheit nach Indien versetzt.
 
 Soldat ist er wohl nicht geworden, weil er Spaß am Kriegshandwerk hatte, sondern viel mehr, weil er darin die beste Möglichkeit sah, die Welt kennen zu lernen.
 
@@ -31,7 +31,7 @@ Daher übertrug die Armeeführung ihm, der die Wildnis wie seine eigene Westenta
 
 Aus diesem Grund schrieb er das Handbuch "Aids for Scouting" (Hilfe für Kundschafter), in dem er all sein Wissen über das Leben von und mit der Natur niederschrieb.  
 Als er 1901 nach Hause kam, war sein Buch ein wahres Kultbuch bei den englischen Jugendlichen geworden. Sie interessierten sich brennend für die Dinge, die darin beschrieben waren.  
-Doch der Autor war entsetzt, denn er hatte dieses Buch für die militärische Ausbildung von Soldaten und Offizieren gerschrieben.  
+Doch der Autor war entsetzt, denn er hatte dieses Buch für die militärische Ausbildung von Soldaten und Offizieren geschrieben.  
 So beschloss er ein zweites Buch speziell für Jugendliche zu schreiben. Er nannte es "Scouting for Boys" (Pfadfinden).
 
 Zuvor wollte er aber noch einige Erfahrungen mit der Jugendarbeit sammeln und so kommen wir auch wieder zu unseren zwanzig Jungen auf Brownsea Island, denn dieses Lager wurde von Baden-Powell ins Leben gerufen.  
@@ -52,4 +52,4 @@ Auf seinem Grabstein ist ein Kreis mit einem Punkt in der Mitte eingemeißelt, d
 Die neue Art der Jugendbewegung breitete sich rasend schnell über die ganze Welt aus.  
 Bald wurde sein Buch "Scouting for Boys" von Dr. Alexander Lion ins Deutsche übersetzt und auch hier zulande begeisterten sich die Jugendlichen für die Pfadfinderei.  
 
-Heute gibt es über 50 Millionen Pfadfinderinnen und Pfadfiner weltweit, die dein Grundgedanken BiPi's weitertragen.
+Heute gibt es über 50 Millionen Pfadfinderinnen und Pfadfinder weltweit, die dein Grundgedanken BiPi's weitertragen.
