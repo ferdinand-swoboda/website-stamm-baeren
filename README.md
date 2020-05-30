@@ -25,8 +25,6 @@
 - Finish blog drafts
 - Improve geschichte.md
 
-#### Could
-- Update to Jekyll 4 and its link tag
 
 ### Need help?
 Check out
