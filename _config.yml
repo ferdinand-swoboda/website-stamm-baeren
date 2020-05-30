@@ -1,6 +1,3 @@
-remote_theme: ferdinand-swoboda/alembic
-
-
 # Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
@@ -12,28 +9,6 @@ remote_theme: ferdinand-swoboda/alembic
 # 8. Site favicons & manifest icons
 # 9. Site navigation
 
-# 1. Files excluded from Jekyll builds
-exclude:
-- README.md
-- CNAME
-- Gemfile
-- Gemfile.lock
-- alembic-jekyll-theme.gemspec
-- .jekyll-cache
-
-# 2. Installed Gems
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 4 # jekyll-paginate > items per page
@@ -62,7 +37,7 @@ collections:
     title: Abenteuer # Needed for Siteleaf
     output: true
     description: "Eine Auswahl vergangener Abenteuer" # The post list page content
-    feature_text: 
+    feature_text:
     feature_image: "/website-stamm-baeren/assets/images/pfadi-walk-2.jpeg"
     sort_by: date
 

@@ -2,7 +2,15 @@
 
 source "https://rubygems.org"
 
-# gem "alembic-jekyll-theme"
-gem "jekyll-remote-theme"
-gem "jekyll-include-cache"
-gem "github-pages", group: :jekyll_plugins
+group :jekyll_plugins do
+  gem "jekyll-include-cache"
+  gem "jekyll-default-layout", :github => 'benbalter/jekyll-default-layout'
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll"
+  gem "jekyll-sitemap"
+  gem "jekyll-mentions"
+  gem "jekyll-paginate"
+  gem "jekyll-redirect-from"
+  gem "jemoji"
+end
