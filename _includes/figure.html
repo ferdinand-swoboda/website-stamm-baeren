@@ -1,4 +1,9 @@
 <figure class="figure  figure--{{ include.position | default: 'center' }}">
-  <img class="image" src="{{site.baseurl}}/{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
+  {% if include.image contains '://' %}
+  {% assign source_url = include.image %}
+  {% else %}
+  {% assign source_url = include.image | relative_url %}
+  {% endif %}
+  <img class="image" src="{{ source_url }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
   {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif %}
 </figure>

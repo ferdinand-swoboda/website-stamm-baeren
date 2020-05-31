@@ -26,9 +26,10 @@ Los geht's!
 <small>Ein besonders kleines Element</small>
 
 [Ein Link auf eine externe Seite mit Titel](https://www.neuried.de "Neuried Homepage")  
-[Ein Link zu einer internen Seite ohne Titel]({% link stamm.md %})
+[Ein Link zu einer internen Seite ohne Titel]({% link stamm.md %})  
+[Ein Link zu einem unserer Blogartikel]({% post_url 2019-12-25-neue-website-fuer-stamm %})
 
-Duis aute irure dolor in [ein link](www.stamm-baeren.de) reprehenderit in ~~durchstreichen~~ esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `Block text, für Code z.B.` est laborum.
+Duis aute irure dolor in [ein link](https://www.stamm-baeren.de) reprehenderit in ~~durchstreichen~~ esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `Block text, für Code z.B.` est laborum.
 
 Manche Kontrollzeichen wie \* müssen nach einem Backslash \\ stehen um dargestellt zu werden.
 
