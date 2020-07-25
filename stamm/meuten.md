@@ -16,10 +16,7 @@ An seinem **gelben Halstuch** und am **Wolfskopf** auf seinem Hemd.
 
 ### Wer sind unsere Gruppen und ihre Leiter?
 
-Zurzeit haben wir eine Meute, die **Braunbären**, mit etwa 9 Wölflingen.
-Die Meutenführer der Braunbären sind René Pieper und Manuel "Manu" Krainz.
-
-Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 17:30 bis 19:00 Uhr statt. Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
+**Augrund des Fehlens einer dauerhaften Bleibe können wir aktuell keine Meutenstunden anbieten und müssen Interessierte an unsere befreundeten Stämme  [Cosuaneten](https://www.cosuaneten.de) in Trudering oder [Bussard](https://www.stammbussard-germering.de) in Germering verweisen. Bei Fragen wendet euch gerne an den [Stammesrat]({% link index.md %}/kontakt).**
 
 ### Interessiert?
 
