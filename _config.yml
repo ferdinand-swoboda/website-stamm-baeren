@@ -18,7 +18,7 @@ paginate_path: abenteuer/seite:num # jekyll-paginate > blog page
 #  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
 author: Stamm Bären # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Stamm Bären Neuried # jekyll-seo-tag > real name
+  name: Stamm Bären Planegg # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.facebook.com/Stamm.Baeren
 markdown: kramdown # Markdown parse settings
@@ -47,9 +47,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: de-GE # Set the site language
-title: "Stamm Bären Neuried" # Site name or title, also used in jekyll-seo-tag
+title: "Stamm Bären Planegg" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo@192px.png" # Site logo, also used in jekyll-seo-tag
-description: "Wir sind als örtliche Gruppe in Neuried (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden." # Site description and default description, also used in jekyll-seo-tag
+description: "Wir sind als örtliche Gruppe in Planegg (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden." # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.stamm-baeren.de" # Site url, also used in jekyll-seo-tag
 baseurl: "/website-stamm-baeren"
 repo: "https://github.com/ferdinand-swoboda/website-stamm-baeren"

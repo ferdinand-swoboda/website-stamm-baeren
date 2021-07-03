@@ -6,7 +6,7 @@ feature_image: "assets/images/2005-zelte-bula.jpg"
 ---
 {% include nav-social.html %}
 
-Wir sind als örtliche Gruppe in Neuried (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden vertreten durch [WOSM](https://www.scout.org)/[WAGGGS](https://www.wagggs.org).
+Wir sind als örtliche Gruppe in Planegg (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden vertreten durch [WOSM](https://www.scout.org)/[WAGGGS](https://www.wagggs.org).
 
 #### Jugend führt Jugend
 

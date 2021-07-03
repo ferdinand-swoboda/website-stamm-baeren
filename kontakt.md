@@ -15,6 +15,6 @@ Du kannst uns über die folgenden Kanäle erreichen:
 
 Wir freuen uns auf deine Nachricht!
 
-Unser **Stammesheim** (zurzeit geschlossen) befindet sich in der **Zugspitzstraße 2a 82061 Neuried**, auf dem alten Gelände des TSV Neuried:
+Unser **Stammesheim** (im Bau) befindet sich auf dem Rasen hinter dem Feodor-Lynen-Gymnasium in Planegg, neben der Tartanbahn:
 
 {% include map.html %}
