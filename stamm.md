@@ -4,8 +4,6 @@ feature_text:
 feature_image: "assets/images/2005-gelaendespiel-leute.jpeg"
 ---
 
-**Achtung! Augrund des Fehlens einer dauerhaften Bleibe können wir aktuell keine Meutenstunden anbieten und müssen Interessierte an unsere befreundeten Stämme verweisen. Bei Fragen wendet euch gerne an den [Stammesrat]({% link index.md %}/kontakt).**
-
 Wir haben in Planegg zurzeit etwa 25 Mitglieder, 15 davon aktiv.  
 Abhängig vom Alter treffen wir uns in unterschiedlichen Gruppen einmal wöchentlich. Hin und wieder unternehmen wir Fahrten und Lager in der Region, in Deutschland und im Ausland oder auch Singerunden und Thementage mit anderen Pfadis.  
 Zu diesen gehören im Besonderen die befreundeten Stämme [Cosuaneten](https://www.cosuaneten.de), [Bussard](https://www.stammbussard-germering.de) und Jakob Fugger, mit den wir den **Horst Südland** geformt haben.
