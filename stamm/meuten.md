@@ -16,7 +16,11 @@ An seinem **gelben Halstuch** und am **Wolfskopf** auf seinem Hemd.
 
 ### Wer sind unsere Gruppen und ihre Leiter?
 
-**Augrund des Fehlens einer dauerhaften Bleibe können wir aktuell keine Meutenstunden anbieten und müssen Interessierte an unsere befreundeten Stämme  [Cosuaneten](https://www.cosuaneten.de) in Trudering oder [Bussard](https://www.stammbussard-germering.de) in Germering verweisen. Bei Fragen wendet euch gerne an den [Stammesrat]({% link index.md %}/kontakt).**
+Zurzeit haben wir eine Meute, die **Braunbären**, mit etwa 15 Pfadfinder*innen.
+Die Meutenführer der Braunbären sind Matthias "Matze" Maerkl und René Pieper.
+
+Unsere wöchentlichen Gruppentreffen finden jeden Freitag von 17:30 bis 18:30 Uhr statt. 
+Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
 
 ### Interessiert?
 

@@ -22,7 +22,7 @@ Der Stammesrat setzt sich zurzeit aus folgenden Mitgliedern zusammen:
 |--------+-------|
 | Stammesführer | Matthias "Matze" Maerkl |
 | Stellv. Stammesführer | Alexander "Ali" Krams und Daniel "Dani" Opatril |
-| Meutenführer Braunbären | René Pieper und Manuel "Manu" Krainz |
+| Meutenführer Braunbären | René Pieper und Matthias "Matze" Maerkl |
 | Materialwart | Daniel "Dani" Opatril |
 | Sippenführer Ameisenbären | Benedikt "Bene" Swoboda |
 | Webmaster | Ferdinand "Pholen" Swoboda |

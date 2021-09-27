@@ -15,10 +15,10 @@ An ihrem blau-gelben Halstuch und dem Zeichen aus Kleeblatt und Lilie auf ihrem 
 
 ### Wer sind unsere Gruppen und ihre Leiter?
 
-Zurzeit haben wir eine Sippe, die **Ameisenbären**, mit 4 Pfadfinderinnen.
+Zurzeit haben wir eine Sippe, die **Ameisenbären**, mit 5 Pfadfinder*innen.
 Der Sippenführer der Ameisenbären ist Benedikt "Bene" Swoboda.
 
-Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 18:00 bis 19:30 Uhr statt. Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
+Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 17:30 bis 19:00 Uhr statt. Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
 
 ### Interessiert?
 
