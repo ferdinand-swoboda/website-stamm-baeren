@@ -14,3 +14,5 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jemoji"
 end
+
+gem "webrick"
