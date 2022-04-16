@@ -6,6 +6,8 @@ on:
       - master
 
 jobs:
+#  This workflow is only needed because GH pages as enabled in the GH UI
+#  only supports a limited number of gems (see https://pages.github.com/versions/).
   prepare-gh-pages:
     runs-on: ubuntu-latest
     steps:
