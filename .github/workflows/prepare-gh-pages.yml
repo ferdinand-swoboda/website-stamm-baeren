@@ -1,4 +1,4 @@
-name: Build and deploy website to GitHub Pages
+name: Build and commit website to gh-pages
 
 on:
   push:
@@ -6,10 +6,12 @@ on:
       - master
 
 jobs:
-  github-pages:
+  prepare-gh-pages:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.3.1
         env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          target_branch: gh-pages
+          target_path: /
+          token: ${{ secrets.GITHUB_TOKEN }}
