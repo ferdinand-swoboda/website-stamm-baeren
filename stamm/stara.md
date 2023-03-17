@@ -13,18 +13,3 @@ Der Stara wird einmal jährlich demokratisch von allen Migliedern des Stammes un
 Einzelne Positionen wie die der Gruppenführer werden vom Stammesrat auf Empfehlung hin ernannt.
 
 Zurzeit kommt der Stammesrat regelmäßig am ersten Montag eines Monats zusammen um sich zu besprechen und zukünftige Aktionen zu planen.
-
-### Wer ist im Stammesrat?
-
-Der Stammesrat setzt sich zurzeit aus folgenden Mitgliedern zusammen:
-
-| Stara-Mitglieder |
-|--------+-------|
-| Stammesführer | Matthias "Matze" Maerkl |
-| Stellv. Stammesführer | Alexander "Ali" Krams und Daniel "Dani" Opatril |
-| Meutenführer Braunbären | René Pieper und Matthias "Matze" Maerkl |
-| Materialwart | Daniel "Dani" Opatril |
-| Sippenführer Ameisenbären | Benedikt "Bene" Swoboda |
-| Webmaster | Ferdinand "Pholen" Swoboda |
-| Kassenwartin/Mitgliederverwalter | Lena Erdmann |
-| Kassenprüferin | Christine Erdmann |

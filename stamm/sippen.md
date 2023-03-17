@@ -13,10 +13,9 @@ Pfadis gehen mit der Sippe auf Fahrt - am Wochenende oder in den Ferien, zu Fuß
 ### Woran erkennt man Pfadis bzw. Sipplinge?
 An ihrem blau-gelben Halstuch und dem Zeichen aus Kleeblatt und Lilie auf ihrem Hemd.
 
-### Wer sind unsere Gruppen und ihre Leiter?
+### Wer sind unsere Gruppen?
 
 Zurzeit haben wir eine Sippe, die **Ameisenbären**, mit 5 Pfadfinder*innen.
-Der Sippenführer der Ameisenbären ist Benedikt "Bene" Swoboda.
 
 Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 17:30 bis 19:00 Uhr statt. Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
 

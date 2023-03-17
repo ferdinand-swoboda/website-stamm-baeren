@@ -14,10 +14,9 @@ Wölflinge lieben wilde Spiele und Toben. Sie verkleiden sich gerne und können 
 ### Woran erkennt man einen Wölfling?
 An seinem **gelben Halstuch** und am **Wolfskopf** auf seinem Hemd.
 
-### Wer sind unsere Gruppen und ihre Leiter?
+### Wer sind unsere Gruppen?
 
 Zurzeit haben wir eine Meute, die **Braunbären**, mit etwa 15 Pfadfinder*innen.
-Die Meutenführer der Braunbären sind Matthias "Matze" Maerkl und René Pieper.
 
 Unsere wöchentlichen Gruppentreffen finden jeden Freitag von 17:30 bis 18:30 Uhr statt. 
 Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
