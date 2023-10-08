@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 group :jekyll_plugins do
   gem "jekyll-include-cache"
-  gem "jekyll-default-layout", :github => 'benbalter/jekyll-default-layout'
+  gem "jekyll-default-layout", :github => 'benbalter/jekyll-default-layout', branch: 'main'
   gem "jekyll-feed"
   gem "jekyll-seo-tag"
   gem "jekyll"
