@@ -17,7 +17,7 @@ An ihrem blau-gelben Halstuch und dem Zeichen aus Kleeblatt und Lilie auf ihrem 
 
 Zurzeit haben wir eine Sippe, die **Ameisenbären**, mit 5 Pfadfinder*innen.
 
-Unsere wöchentlichen Gruppentreffen finden jeden Mittwoch von 17:30 bis 19:00 Uhr statt. Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
+Unsere wöchentlichen Gruppentreffen finden jeden Donnerstag von 17:30 bis 19:00 Uhr statt. Treffpunkt ist unser [Stammesheim]({% link kontakt.md %}).
 
 ### Interessiert?
 
