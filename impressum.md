@@ -10,7 +10,7 @@ Stammesrat Stamm Bären vertreten durch
 > Lindenallee 49  
 > 82061 Neuried
 
-E-Mail: info@stamm-baeren.de
+E-Mail: ferdinand.swoboda@outlook.de
 
 ##### Markenrecht
 Wir weisen darauf hin, dass der BdP e.V. für seine Wort- und Bildmarken entsprechende Eintragungen beim Deutschen Patent- und Markenamt inne hat. Eine Nutzung wird Untergliederungen (Landesverbände, Bezirke, Stämme, ...) im Rahmen ihrer satzungsgemäßen Arbeit gewährt.

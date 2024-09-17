@@ -53,7 +53,7 @@ description: "Wir sind als örtliche Gruppe in Planegg (Bayern) Mitglied des [Bd
 url: "https://www.stamm-baeren.de" # Site url, also used in jekyll-seo-tag
 baseurl: "/website-stamm-baeren"
 repo: "https://github.com/ferdinand-swoboda/website-stamm-baeren"
-email: "stara@stamm-baeren.de"
+email: "stara-stamm-baeren@googlegroups.com"
 service_worker: false # Will turn off the service worker if set to false
 css_inline: false # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
@@ -88,7 +88,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Facebook: https://www.facebook.com/Stamm.Baeren
   link: https://www.stamm-baeren.de
   RSS: /website-stamm-baeren/feed.xml
-  Email: mailto:stara@stamm-baeren.de
+  Email: mailto:stara-stamm-baeren@googlegroups.com
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
