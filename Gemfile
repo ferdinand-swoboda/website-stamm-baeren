@@ -15,4 +15,5 @@ group :jekyll_plugins do
   gem "jemoji"
 end
 
+gem "csv"
 gem "webrick"
