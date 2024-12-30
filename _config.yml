@@ -50,7 +50,7 @@ lang: de-GE # Set the site language
 title: "Stamm Bären Planegg" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo@192px.png" # Site logo, also used in jekyll-seo-tag
 description: "Wir sind als örtliche Gruppe in Planegg (Bayern) Mitglied des [BdP e.V.](https://www.pfadfinden.de) und Teil der weltweiten Jugendbewegung Pfadfinden." # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.stamm-baeren.de" # Site url, also used in jekyll-seo-tag
+url: "https://www.stamm-baeren.com" # Site url, also used in jekyll-seo-tag
 baseurl: "/website-stamm-baeren"
 repo: "https://github.com/ferdinand-swoboda/website-stamm-baeren"
 email: "stara@stamm-baeren.com"
@@ -86,7 +86,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Facebook: https://www.facebook.com/Stamm.Baeren
-  link: https://www.stamm-baeren.de
+  link: https://www.stamm-baeren.com
   RSS: /website-stamm-baeren/feed.xml
   Email: mailto:stara@stamm-baeren.com
 
