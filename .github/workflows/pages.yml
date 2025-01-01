@@ -33,7 +33,7 @@ jobs:
         uses: actions/configure-pages@v5
       - run: bundle exec jekyll build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1 # This will automatically upload an artifact from the '/_site' directory
+        uses: actions/upload-pages-artifact@v3 # This will automatically upload an artifact from the '/_site' directory
 
   deploy:
     environment:
