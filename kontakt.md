@@ -15,6 +15,6 @@ Du kannst uns über die folgenden Kanäle erreichen:
 
 Wir freuen uns auf deine Nachricht!
 
-Unser **Stammesheim** (im Bau) befindet sich auf dem Rasen hinter dem Feodor-Lynen-Gymnasium in Planegg, neben der Tartanbahn:
+Unser **Stammesheim** befindet sich auf dem Rasen hinter dem Feodor-Lynen-Gymnasium in Planegg, neben der Tartanbahn:
 
 {% include map.html %}
