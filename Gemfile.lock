@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/benbalter/jekyll-default-layout.git
-  revision: 340343a2ab7b1b18a45ff7c26f2937db5d28f7b5
+  revision: b3c4b3d6a022ea0272c10bee257e5513a895e01d
   branch: main
   specs:
     jekyll-default-layout (0.1.5)
@@ -40,10 +40,10 @@ GEM
     ffi (1.17.2-x86_64-darwin)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
-    google-protobuf (4.30.2)
+    google-protobuf (4.31.0)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.30.2-x86_64-darwin)
+    google-protobuf (4.31.0-x86_64-darwin)
       bigdecimal
       rake (>= 13)
     html-pipeline (2.14.3)
@@ -93,7 +93,7 @@ GEM
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (2.11.3)
+    json (2.12.2)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
@@ -113,20 +113,20 @@ GEM
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (6.0.1)
+    public_suffix (6.0.2)
     racc (1.8.1)
     rake (13.2.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
     rexml (3.4.1)
-    rouge (4.5.1)
+    rouge (4.5.2)
     safe_yaml (1.0.5)
-    sass-embedded (1.87.0)
-      google-protobuf (~> 4.30)
+    sass-embedded (1.89.0)
+      google-protobuf (~> 4.31)
       rake (>= 13)
-    sass-embedded (1.87.0-x86_64-darwin)
-      google-protobuf (~> 4.30)
+    sass-embedded (1.89.0-x86_64-darwin)
+      google-protobuf (~> 4.31)
     securerandom (0.4.1)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
