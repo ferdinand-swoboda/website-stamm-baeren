@@ -15,6 +15,11 @@ Du kannst uns über die folgenden Kanäle erreichen:
 
 Wir freuen uns auf deine Nachricht!
 
+##### Relevant Dokumente:
+
+- [Satzung](/assets/pdf/Satzung-BdP-Stamm-Baeren.pdf)
+- [Beitragsordnung](/assets/pdf/Beitragsordnung-BdP-Stamm-Baeren.pdf)
+
 Unser **Stammesheim** befindet sich auf dem Rasen hinter dem Feodor-Lynen-Gymnasium in Planegg, neben der Tartanbahn:
 
 {% include map.html %}
