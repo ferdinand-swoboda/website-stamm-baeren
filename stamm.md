@@ -1,7 +1,7 @@
 ---
 title: Die Bären
 feature_text:
-feature_image: "assets/images/2005-gelaendespiel-leute.jpeg"
+feature_image: "assets/images/IMG_0473.jpeg"
 ---
 
 Wir haben in Planegg zurzeit etwa 25 Mitglieder, 15 davon aktiv.  
