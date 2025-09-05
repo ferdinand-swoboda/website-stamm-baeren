@@ -4,10 +4,32 @@ layout: page
 ---
 
 
-Stammesrat Stamm Bären vertreten durch
+Stammesrat Stamm Bären vertreten durch:
 
-> Daniel Opatril     
-> Marie-Deubler-Str. 2  
+> Annika Gauer (1. Vorstand)
+> 
+> Saskia Frohberg (2.Vorstand)
+
+Mitglied im Bund der Pfadfinderinnen und Pfadfinder Landesverband Bayern e.V (BdP Bayern) 
+
+>Severinstraße 5
+>
+>81541 München
+>
+>Vereinsregister: VR 6261
+>
+>Registergericht: Amtsgericht München
+
+Kontakt:
+
+Email: kontakt@stamm-baeren.com
+
+Redaktionell verantwortlich:
+
+> Daniel Opatril
+> 
+> Marie-Deubler-Str. 2
+> 
 > 82061 Neuried
 
 E-Mail: daniel.opatril@stamm-baeren.com
